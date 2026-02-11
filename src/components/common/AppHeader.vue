@@ -22,6 +22,7 @@
     background: #fff;
     border-bottom: 1px solid #eee;
     border-radius: 8px;
+  z-index: 20;
   }
   .inner{
     max-width: 1200px;
